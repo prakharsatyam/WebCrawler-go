@@ -1,2 +1,2 @@
-<h1> Web-Crawler using GOQuery </h1>
+<h1> Web-Crawler using GoQuery </h1>
 "WebCrawler-go" is a basic website scraper which uses goquery that can be called as a replication of jQuerry to scrape information from a site. In the following monolith project we use goQuery to scrape the titles of blogposts hosted on golangcode.com using the tag .post-title and present the retrived information on the terminal using the  in-built "fmt" package and its functions
